@@ -1,0 +1,7 @@
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\Assignment_03\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

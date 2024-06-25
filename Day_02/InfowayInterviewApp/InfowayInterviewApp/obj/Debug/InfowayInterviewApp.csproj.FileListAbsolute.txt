@@ -1,0 +1,7 @@
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\bin\Debug\InfowayInterviewApp.exe.config
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\bin\Debug\InfowayInterviewApp.exe
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\bin\Debug\InfowayInterviewApp.pdb
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\obj\Debug\InfowayInterviewApp.csproj.AssemblyReference.cache
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\obj\Debug\InfowayInterviewApp.csproj.CoreCompileInputs.cache
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\obj\Debug\InfowayInterviewApp.exe
+C:\Users\Group012\Desktop\DotNetPrograms\Day_02\InfowayInterviewApp\InfowayInterviewApp\obj\Debug\InfowayInterviewApp.pdb
